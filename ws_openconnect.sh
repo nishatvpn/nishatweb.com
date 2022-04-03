@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='82.223.165.66';
-db_user='distant_dinstantpanel';
-db_pass='paneldinstant@';
-db_name='distant_dinstantpanel';
+db_host='162.253.155.198';
+db_user='nishatwp_vpn';
+db_pass='nishatwp_vpn';
+db_name='nishatwp_vpn';
 
 install_require()
 {
